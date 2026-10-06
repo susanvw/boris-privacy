@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Boris the Annihilator privacy policy
 
-*Last updated: 6 October 2026. Contact: [support@svwdesign.com](mailto:support@svwdesign.com).*
+*Last updated: 6 October 2026. Contact: [susan@svwdesign.com](mailto:susan@svwdesign.com).*
 
 Boris the Annihilator is a fitness app. It is built to keep your information on your phone.
 
@@ -48,4 +48,4 @@ Boris the Annihilator shows general fitness information and reference ranges fro
 The app is not directed at children under 13.
 
 ## Changes and contact
-If this policy changes, the new version will be posted at the same address with a new date. Questions: [support@svwdesign.com](mailto:support@svwdesign.com).
+If this policy changes, the new version will be posted at the same address with a new date. Questions: [susan@svwdesign.com](mailto:susan@svwdesign.com).
