@@ -1,5 +1,6 @@
 ---
 title: Boris the Annihilator support
+layout: default
 ---
 
 # Boris the Annihilator
